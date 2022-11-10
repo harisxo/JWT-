@@ -1,3 +1,6 @@
+
+* Start server using npm run dev *
+
 =>Built an Authentication API with JWT Token in Node.js:
 
 =>JWT to sign the credentials and bycrypt to encrypt the password before storing them in our database.
